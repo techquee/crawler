@@ -1,3 +1,3 @@
 # crawler
 
-They are the crawlers made with the help of cheerio tool for scraping the websites and getting images on specific topics.
+They are crawlers made with the help of cheerio tool in Node.js for scraping the websites and getting images along with its description based on its tags category like books, flowers etc.
